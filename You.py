@@ -241,10 +241,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;93mWrong Password"
-            os.system('xdg-open https://youtu.be/xqNHHxiFlwI
+            os.system('xdg-
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://youtu.be/xqNHHxiFlwI
+        os.system('xdg-
 #### LICENSE #####
 #=================#
 def lisensi():
